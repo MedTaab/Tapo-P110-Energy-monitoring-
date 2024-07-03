@@ -42,6 +42,7 @@ Modifiez les variables dans le script pour adapter la surveillance à votre conf
    ```
 
 **device_ip**: L'adresse IP de votre TP-Link Tapo P110.
+
 **threshold**: Le seuil de consommation en watts au-delà duquel la prise intelligente sera éteinte.
 
 ## Tableau de Bord
@@ -49,9 +50,13 @@ Modifiez les variables dans le script pour adapter la surveillance à votre conf
 Un tableau de bord de visualisation des données de consommation énergétique sera développé pour fournir une interface utilisateur intuitive pour l'analyse des données. Ce tableau de bord permettra de :
 
 Visualiser les données de consommation en temps réel.
+
 Analyser les tendances de consommation sur différentes périodes.
+
 Configurer des alertes et des actions automatiques en fonction des seuils de consommation.
+
 Pour plus d'informations
+
 Pour des informations détaillées et techniques, sélectionnez le rapport ci-dessous :
 
 ### 📄 Rapport de Projet
