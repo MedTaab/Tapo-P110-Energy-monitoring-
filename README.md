@@ -57,7 +57,8 @@ Analyser les tendances de consommation sur différentes périodes.
 
 Pour plus d'informations
 
-Pour des informations détaillées et techniques, sélectionnez le rapport ci-dessous : 
+Pour des informations détaillées et techniques, sélectionnez le rapport ci-dessous : Dashboard Consommation 3 convoyeurs.pbix
+
 
 ### 📄 Rapport de Projet
 
