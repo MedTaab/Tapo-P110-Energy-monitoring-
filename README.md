@@ -53,11 +53,11 @@ Visualiser les données de consommation en temps réel.
 
 Analyser les tendances de consommation sur différentes périodes.
 
-Configurer des alertes et des actions automatiques en fonction des seuils de consommation.
+
 
 Pour plus d'informations
 
-Pour des informations détaillées et techniques, sélectionnez le rapport ci-dessous :
+Pour des informations détaillées et techniques, sélectionnez le rapport ci-dessous : 
 
 ### 📄 Rapport de Projet
 
